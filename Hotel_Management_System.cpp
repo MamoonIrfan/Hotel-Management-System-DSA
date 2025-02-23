@@ -1,9 +1,4 @@
 // Project Name: Hotel Management system:
-// Name:                      ID:
-// Muhammad Mamoon Irfan    F2023266192
-// Danish Mehmood           S2024266129
-// Rana Ali Hassan          F2023266151
-// Muahmmad Talha Hameed    F2023266180
 
 #include <iostream>
 #include <ctime>
