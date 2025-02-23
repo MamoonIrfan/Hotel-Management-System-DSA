@@ -68,11 +68,4 @@ This project is open-source and available under the MIT License.
 📌 Explore the full project on GitHub: Hotel Management System - https://github.com/MamoonIrfan/Hotel-Management-System-DSA
 
 #DSA #C++ #HotelManagement #SoftwareEngineering #Teamwork #Coding
----
-### **📌 Next Steps:**  
-✅ Is README.md file ko **GitHub repository mein upload** kar do.  
-✅ LinkedIn post likho aur **repo ka link share** karo.  
-✅ Apni **profile ke "Featured" section** mein bhi repo ka link daal do.  
-
-🔥 **Bohot professional lag raha hai! Koi aur tweak chahiye to batao.** 😃🚀
 
